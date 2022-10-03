@@ -1,1 +1,25 @@
-# thais
+<!DOCTYPE html>
+<html lang = "pt-br">
+  <head> 
+      <meta charset="UTF-8">
+     <title>resenha livro</title>
+     <link rel="stylesheet" href="style.css">
+     <style>
+      body {
+    background-color: #b380ff;
+}
+       p{
+         text-align: center
+       }
+       
+  </style>
+  </head>
+  <body>       
+     <h1><title>todas as suas imperfeicoẽs<title></h1>
+     
+       <p>Uma história de amor perfeita é suficiente para manter vivo o casamento entre duas pessoas imperfeitas?</p>
+       <p>O acaso uniu Quinn e Graham duas vezes. A primeira delas, no que consideraram o pior dia de suas vidas, quando ela descobriu às vésperas do casamento que estava sendo traída pelo noivo e ele, pela namorada que pretendia pedir em casamento. A segunda, meses depois, em meio a encontros ruins.</p>
+       <p>Deste reencontro surgiu um amor profundo e um relacionamento perfeito… ou talvez nem tanto. Com o passar dos anos e a frustração por não conseguirem ter filhos, Quinn e Graham acumularam silêncios e desconfianças. O casal se encontra no centro de um furacão, e seu futuro depende das promessas feitas quando o casamento ainda parecia uma praia paradisíaca.</p>  
+   </body>               
+</html>
+              
